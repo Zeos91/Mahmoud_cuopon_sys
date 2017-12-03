@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="Facades.CouponClientFacade"/>
+<fullyQualifiedTypeName name="couponsProject.DAO.CompanyDBDAO"/>
+<fullyQualifiedTypeName name="facade.CouponClientFacade"/>
+<fullyQualifiedTypeName name="facade.CompanyFacade"/>
+<fullyQualifiedTypeName name="facade.CustomerFacade"/>
+<fullyQualifiedTypeName name="facade.AdminFacade"/>
+<fullyQualifiedTypeName name="dao.CustomerDAO"/>
+<fullyQualifiedTypeName name="dao.CouponDAO"/>
+<fullyQualifiedTypeName name="facade.StringDateConvertor"/>
+<fullyQualifiedTypeName name="dao.CompanyDAO"/>
+<fullyQualifiedTypeName name="facade.SQLQueryRequest"/>
+<fullyQualifiedTypeName name="beans.Company"/>
+<fullyQualifiedTypeName name="dbdao.CompanyDBDAO"/>
+<fullyQualifiedTypeName name="database.DuplicateNameException"/>
+<fullyQualifiedTypeName name="database.ConnectionPool"/>
+<fullyQualifiedTypeName name="dbdao.CustomerDBDAO"/>
+<fullyQualifiedTypeName name="beans.Customer"/>
+<fullyQualifiedTypeName name="beans.CouponType"/>
+<fullyQualifiedTypeName name="beans.ClientType"/>
+<fullyQualifiedTypeName name="beans.ClientTypeFactory"/>
+<fullyQualifiedTypeName name="dbdao.CouponDBDAO"/>
+<fullyQualifiedTypeName name="beans.Coupon"/>
+<fullyQualifiedTypeName name="database.NotExistException"/>
+</qualifiedTypeNameHistroy>
